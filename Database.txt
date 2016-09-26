@@ -1,0 +1,11 @@
+10
+Adder*dragon*Lindwurm*male*470*Maldives*sea urchins*5*9000000*N
+Salmon*dragon*Imperial Fleshcrowne*male*293*Fergana*veal fish, sour milk*3*10000000*N
+Midfalcon*dragon*Ember*male*877*Java*sulfur clouds*8*10*Y
+Rorschach*drake*Black Tea*male*130*Cotswold*basil, tea plantations*3*4000050*Y
+Gemini*wyvern*Coastal Waverunner*male*450*Sydney, Australia*puffer fish, seaweed*5*5900000*N
+Cactus*wyvern*Fever*female*490*Arizona*frogs, dead trees*2*5230000*Y
+Strife*drake*Howler drake*male*995*Romania*dogs, cats*9*15000000*Y
+Zarrus*wyvern*Neotropical*male*346*Congo*fruits,bats,fruitbats*4*3050000*Y
+Bucket*dragon*Olive*male*45*the South Carolina marsh*grass, dead fish*5*2300000*Y
+Haina*dragon*Chinese Dragon*female*465*Guangdong*calcium deposits, red plastic*7*4500000*Y
