@@ -25,18 +25,24 @@ Known Issues: when inputting an action choice in certain menus, the program cann
 thus mistakes or deliberate mistyping will bring up an error.
 
 '''
+
 IMPORTANT INFORMATION!!!
 
 To access the shopkeeper account you will need:
+
 login: CadburyRowan
+
 password: flightfright
 
 '''
+
 The main file for running is Rowans.py
 RowansClass.py contains the Pet class with other useful functions.
+
 Backup.txt to be used if something goes wrong and Database.txt is corrupted.
 
 '''
+
 Dragon species and references taken from:
 http://dragcave.wikia.com/wiki/Dragon_Types
 
