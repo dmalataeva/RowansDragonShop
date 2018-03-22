@@ -1,3 +1,9 @@
+# Rowan's Dragon Shop
+
+This repository contains an assignment from my Grade 11 ICS3U course. Files are left unchanged because I like to come back here and look at where I started.
+
+## Original Description
+
 Name: Deniza Malataeva
 Date: January 14, 2015
 Description: A dragon pet store.
