@@ -31,7 +31,6 @@ IMPORTANT INFORMATION!!!
 To access the shopkeeper account you will need:
 
 login: CadburyRowan
-
 password: flightfright
 
 '''
